@@ -1,19 +1,25 @@
 ![俐方體 1 Cropped](https://user-images.githubusercontent.com/98224334/150672562-738b36e4-35c1-40b4-a2e5-f14f28e7d4cb.png)
+
 # 俐方體11號／Cubic 11
 
-「俐方體11號」是基於 M⁺ gothic 12r 衍生的開源繁體中文點陣字型。
+**俐方體11號**是基於 M⁺ gothic 12r 衍生的開源繁體中文點陣字型。
 
 ## 特徵
 
 ### 字形調整
 
-本字型以日文字型 M⁺ gothic 12r 為基礎替繁體中文進行修改與擴充，其中包括適用繁體中文的標點符號以及較符合臺灣習慣的字形等。
-
-![俐方體比較 (1) Cropped](https://user-images.githubusercontent.com/98224334/150676673-273f8c82-b9f4-4a76-ad97-5528c99905f6.png)
+本字型以日文字型 M⁺ gothic 12r 為基礎替繁體中文進行修改與擴充，其中包括適用繁體中文的標點符號以及較符合臺灣習慣的字形等。![俐方體比較 (1) Cropped](https://user-images.githubusercontent.com/98224334/150676673-273f8c82-b9f4-4a76-ad97-5528c99905f6.png)
 
 ### 收錄字數
 
-
+- 常用國字標準字體 4808 字。
+- Big5 第一字面 5401 字。
+- IICore 臺灣常用字 T1A、T2A 及部分 T2B。
+- 臺客閩粵字。
+- 注音符號。
+- GB 2312 Level-1。
+- 通用规范汉字表 一级。
+- 元素週期表之所有元素字符。![俐方體週期表](https://user-images.githubusercontent.com/98224334/150678697-5067e177-3d7b-4c97-80dc-eb56020b54c4.png)
 
 ## 授權
 
