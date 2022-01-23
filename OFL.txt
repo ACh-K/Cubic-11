@@ -1,19 +1,5 @@
-[Cubic 11]
-These fonts are free software.
-Unlimited permission is granted to use, copy, and distribute them, with or without modification, either commercially or noncommercially.
-THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
-此字型是免費的。
-無論您是否進行對本字型進行商業或非商業性修改，均可無限制地使用，複製和分發它們。
-本字型的衍生品之授權必須與此字型相同，且不作任何擔保。
-[JF Dot M+H 12]
-Copyright(c) 2005 M+ FONTS PROJECT
-[M+ BITMAP FONTS]
-Copyright (C) 2002-2004 COZ
-These fonts are free software.
-Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially.
-THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
-これらのフォントはフリー（自由な）ソフトウエアです。
-あらゆる改変の有無に関わらず、また商業的な利用であっても、自由にご利用、複製、再配布することができますが、全て無保証とさせていただきます。
+Copyright 2020 The Klee Project Authors (https://github.com/fontworks-fonts/Klee)
+Copyright 2022 But Ko (https://github.com/ButTaiwan/iansui)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
