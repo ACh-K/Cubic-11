@@ -31,3 +31,5 @@
   - 您可基於 SIL Open Font License 1.1 的規定再發布或改造本字型。
 
 ## 下載方式
+
+可至 [Releases](https://github.com/ACh-K/Cubic-11/releases) 下載最新版本的俐方體11號。
