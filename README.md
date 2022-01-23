@@ -27,8 +27,11 @@
 
 - 本字型亦基於 SIL Open Font License 1.1 授權條款公開發布。關於授權合約的詳細內容，請詳讀 LICENSE 文件。
 
-  - 本字型可自由使用在印刷、影像、網路及任何媒體上，不限個人或商業使用。
-  - 您可基於 SIL Open Font License 1.1 的規定再發布或改造本字型。
+  - **Cubic**、**俐方體**為本專案的保留名稱。
+  - 任何人可以無償使用此字型，包含商用。無須告知原作者。
+  - 您可自由傳送、分享此字型，或與其他軟體綑綁發行、銷售。捆包中必須同時包含授權文件檔（OFL.txt）。
+  - 您可自由改造、衍生此字型並公開。修改後的字型必須同樣以 [SIL OFL](https://scripts.sil.org/OFL) 進行發布，勿使用字型的保留名稱。
+  - 依照 [SIL OFL](https://scripts.sil.org/OFL) 規定，**禁止單獨出售字型檔**。
 
 ## 下載方式
 
@@ -36,4 +39,4 @@
 
 ## 問題回報
 
-在使用本字型時遇到字型本身的問題時，歡迎至 [Issues](https://github.com/ACh-K/Cubic-11/issues) 回報！
+在使用本字型時遇到字型本身的問題或者想提供建議的話，歡迎至 [Issues](https://github.com/ACh-K/Cubic-11/issues) 回報！
