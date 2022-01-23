@@ -35,7 +35,7 @@
 
 ## 下載方式
 
-可至 [Releases](https://github.com/ACh-K/Cubic-11/releases) 下載最新版本的俐方體11號。
+可至 [Releases](https://github.com/ACh-K/Cubic-11/releases) 下載最新版本。
 
 ## 問題回報
 
