@@ -39,4 +39,4 @@
 
 ## 問題回報
 
-在使用本字型時遇到字型本身的問題或者想提供建議給我們的話，歡迎至 [Issues](https://github.com/ACh-K/Cubic-11/issues) 回報！
+在使用本字型時遇到字型本身的問題的話，歡迎至 [Issues](https://github.com/ACh-K/Cubic-11/issues) 回報給我們！
