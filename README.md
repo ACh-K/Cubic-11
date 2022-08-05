@@ -40,6 +40,7 @@
 ## 問題回報
 
 在使用本字型時遇到字型本身的問題的話，歡迎至 [Issues](https://github.com/ACh-K/Cubic-11/issues) 回報給我們！
+
 若遇到缺字、補字的問題則可以至[缺字補字集中串](https://github.com/ACh-K/Cubic-11/issues/4)回報！
 
 ## 贊助管道
